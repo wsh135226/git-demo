@@ -2,3 +2,4 @@ hello git
 hello test
 this is a txt file
 在GitHub中修改了代码，并用于测试ssh免密登录！
+在git命令界面修改了代码，重新推送到GitHub，并用于测试ssh免密推送操作
